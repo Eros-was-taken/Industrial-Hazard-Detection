@@ -212,16 +212,16 @@ El acceso a los paneles depende de los permisos del equipo. No se incluyen crede
 
 Completar esta sección antes de publicar el repositorio:
 
-| Integrante | Rol / responsabilidad |
-|---|---|
-| Nombre del integrante 1 | [Responsabilidad] |
-| Nombre del integrante 2 | [Responsabilidad] |
-| Nombre del integrante 3 | [Responsabilidad] |
+| Integrante |
+|------|
+| Emanuel Navas Valencia |
+| Juan José Ardila |
+| Andrea Bernal |
 
 **Asignatura:** Inteligencia Artificial II  
-**Institución:** [Nombre de la institución]  
-**Docente:** [Nombre del docente]  
-**Periodo académico:** [Periodo / año]
+**Institución:** [Universidad Industrial de Santander]  
+**Docente:** [Luis Carlos Guayacan]  
+**Periodo académico:** [2026-2]
 
 ## 14. Cita académica
 
