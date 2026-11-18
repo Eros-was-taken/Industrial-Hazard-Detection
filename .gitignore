@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos y artefactos pesados
+data/*
+!data/README.md
+models/*
+!models/README.md
+results/*
+!results/README.md
+
+# Weights & Biases
+wandb/

@@ -1,0 +1,9 @@
+ultralytics>=8.4.197
+wandb
+numpy
+pandas
+matplotlib
+PyYAML
+torch
+Pillow
+jupyter
